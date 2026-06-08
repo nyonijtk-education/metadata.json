@@ -1,0 +1,33 @@
+{
+  "name": "TATI COIN",
+  "symbol": "BAOBAB",
+  "description": "PRESENCE",
+  "image": "https://link-to-your-actual-image.png", 
+  "animation_url": "",
+  "external_url": "https://my-tech-academy.vercel.app/",
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Governance"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://link-to-your-actual-image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7iogTPNhgfwi3GGHv3fnk7LcLzbMbY53wRcdELSASGNn",
+        "share": 100
+      }
+    ]
+  }
+}
